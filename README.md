@@ -1,2 +1,2 @@
 # notebook
-Lab 4. Task 6
+Lab 4, Task 6
