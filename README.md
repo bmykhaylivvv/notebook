@@ -1,5 +1,5 @@
 # Notebook
-***Notebook*** -- module represents a notebook with all functions related to real-life notebook.
+***Notebook*** -- program represents a notebook with all functions related to real-life notebook.
 
 ## Main files
 - **notebook.py** -- module for work with Notes and Notebook.
